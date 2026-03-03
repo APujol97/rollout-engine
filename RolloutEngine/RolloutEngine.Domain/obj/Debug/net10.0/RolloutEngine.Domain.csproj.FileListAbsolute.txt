@@ -1,0 +1,12 @@
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\bin\Debug\net10.0\RolloutEngine.Domain.deps.json
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\bin\Debug\net10.0\RolloutEngine.Domain.dll
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\bin\Debug\net10.0\RolloutEngine.Domain.pdb
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\RolloutEngine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\RolloutEngine.Domain.AssemblyInfoInputs.cache
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\RolloutEngine.Domain.AssemblyInfo.cs
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\RolloutEngine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\RolloutEngine.Domain.sourcelink.json
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\RolloutEngine.Domain.dll
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\refint\RolloutEngine.Domain.dll
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\RolloutEngine.Domain.pdb
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Domain\obj\Debug\net10.0\ref\RolloutEngine.Domain.dll

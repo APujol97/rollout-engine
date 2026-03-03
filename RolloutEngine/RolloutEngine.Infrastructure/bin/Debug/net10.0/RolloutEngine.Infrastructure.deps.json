@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RolloutEngine.Infrastructure/1.0.0": {
+        "dependencies": {
+          "RolloutEngine.Application": "1.0.0",
+          "RolloutEngine.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RolloutEngine.Infrastructure.dll": {}
+        }
+      },
+      "RolloutEngine.Application/1.0.0": {
+        "dependencies": {
+          "RolloutEngine.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RolloutEngine.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RolloutEngine.Domain/1.0.0": {
+        "runtime": {
+          "RolloutEngine.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RolloutEngine.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RolloutEngine.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RolloutEngine.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

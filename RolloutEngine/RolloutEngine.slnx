@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="RolloutEngine.Api/RolloutEngine.Api.csproj" />
+  <Project Path="RolloutEngine.Application/RolloutEngine.Application.csproj" />
+  <Project Path="RolloutEngine.Domain/RolloutEngine.Domain.csproj" />
+  <Project Path="RolloutEngine.Infrastructure/RolloutEngine.Infrastructure.csproj" />
+  <Project Path="RolloutEngine.IntegrationTests/RolloutEngine.IntegrationTests.csproj" />
+  <Project Path="RolloutEngine.UnitTests/RolloutEngine.UnitTests.csproj" />
+</Solution>

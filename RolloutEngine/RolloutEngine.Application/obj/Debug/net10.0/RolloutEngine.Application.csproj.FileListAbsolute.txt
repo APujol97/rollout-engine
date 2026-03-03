@@ -1,0 +1,16 @@
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\bin\Debug\net10.0\RolloutEngine.Application.deps.json
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\bin\Debug\net10.0\RolloutEngine.Application.dll
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\bin\Debug\net10.0\RolloutEngine.Application.pdb
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\bin\Debug\net10.0\RolloutEngine.Domain.dll
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\bin\Debug\net10.0\RolloutEngine.Domain.pdb
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutEngine.Application.csproj.AssemblyReference.cache
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutEngine.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutEngine.Application.AssemblyInfoInputs.cache
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutEngine.Application.AssemblyInfo.cs
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutEngine.Application.csproj.CoreCompileInputs.cache
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutEngine.Application.sourcelink.json
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutE.0CF6103B.Up2Date
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutEngine.Application.dll
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\refint\RolloutEngine.Application.dll
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\RolloutEngine.Application.pdb
+C:\Users\pujol\Documents\rollout-engine\RolloutEngine\RolloutEngine.Application\obj\Debug\net10.0\ref\RolloutEngine.Application.dll

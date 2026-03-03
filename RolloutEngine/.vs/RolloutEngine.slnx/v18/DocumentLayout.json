@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A3BE0B-CBAA-4355-94EF-2E846FAEBB10}|RolloutEngine.Infrastructure\\RolloutEngine.Infrastructure.csproj|c:\\users\\pujol\\documents\\rollout-engine\\rolloutengine\\rolloutengine.infrastructure\\repositories\\inmemoryfeatureflagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A3BE0B-CBAA-4355-94EF-2E846FAEBB10}|RolloutEngine.Infrastructure\\RolloutEngine.Infrastructure.csproj|solutionrelative:rolloutengine.infrastructure\\repositories\\inmemoryfeatureflagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5A8F1E-A464-4CCD-8597-5F37E21DF0A3}|RolloutEngine.Application\\RolloutEngine.Application.csproj|c:\\users\\pujol\\documents\\rollout-engine\\rolloutengine\\rolloutengine.application\\abstractions\\ifeatureflagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5A8F1E-A464-4CCD-8597-5F37E21DF0A3}|RolloutEngine.Application\\RolloutEngine.Application.csproj|solutionrelative:rolloutengine.application\\abstractions\\ifeatureflagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E85455-38FB-454B-BB12-822A522CAC7F}|RolloutEngine.Domain\\RolloutEngine.Domain.csproj|c:\\users\\pujol\\documents\\rollout-engine\\rolloutengine\\rolloutengine.domain\\entities\\featureflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E85455-38FB-454B-BB12-822A522CAC7F}|RolloutEngine.Domain\\RolloutEngine.Domain.csproj|solutionrelative:rolloutengine.domain\\entities\\featureflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E83D4B-C459-492B-B9C5-2DBD7A3748E3}|RolloutEngine.Api\\RolloutEngine.Api.csproj|c:\\users\\pujol\\documents\\rollout-engine\\rolloutengine\\rolloutengine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E83D4B-C459-492B-B9C5-2DBD7A3748E3}|RolloutEngine.Api\\RolloutEngine.Api.csproj|solutionrelative:rolloutengine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E83D4B-C459-492B-B9C5-2DBD7A3748E3}|RolloutEngine.Api\\RolloutEngine.Api.csproj|c:\\users\\pujol\\documents\\rollout-engine\\rolloutengine\\rolloutengine.api\\contracts\\createfeatureflagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E83D4B-C459-492B-B9C5-2DBD7A3748E3}|RolloutEngine.Api\\RolloutEngine.Api.csproj|solutionrelative:rolloutengine.api\\contracts\\createfeatureflagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFeatureFlagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Application\\Abstractions\\IFeatureFlagRepository.cs",
+              "RelativeDocumentMoniker": "RolloutEngine.Application\\Abstractions\\IFeatureFlagRepository.cs",
+              "ToolTip": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Application\\Abstractions\\IFeatureFlagRepository.cs",
+              "RelativeToolTip": "RolloutEngine.Application\\Abstractions\\IFeatureFlagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:41:46.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeatureFlag.cs",
+              "DocumentMoniker": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Domain\\Entities\\FeatureFlag.cs",
+              "RelativeDocumentMoniker": "RolloutEngine.Domain\\Entities\\FeatureFlag.cs",
+              "ToolTip": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Domain\\Entities\\FeatureFlag.cs",
+              "RelativeToolTip": "RolloutEngine.Domain\\Entities\\FeatureFlag.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:05:40.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryFeatureFlagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Infrastructure\\Repositories\\InMemoryFeatureFlagRepository.cs",
+              "RelativeDocumentMoniker": "RolloutEngine.Infrastructure\\Repositories\\InMemoryFeatureFlagRepository.cs",
+              "ToolTip": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Infrastructure\\Repositories\\InMemoryFeatureFlagRepository.cs",
+              "RelativeToolTip": "RolloutEngine.Infrastructure\\Repositories\\InMemoryFeatureFlagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:51:40.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateFeatureFlagRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Api\\Contracts\\CreateFeatureFlagRequest.cs",
+              "RelativeDocumentMoniker": "RolloutEngine.Api\\Contracts\\CreateFeatureFlagRequest.cs",
+              "ToolTip": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Api\\Contracts\\CreateFeatureFlagRequest.cs",
+              "RelativeToolTip": "RolloutEngine.Api\\Contracts\\CreateFeatureFlagRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:42:50.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RolloutEngine.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\pujol\\Documents\\rollout-engine\\RolloutEngine\\RolloutEngine.Api\\Program.cs",
+              "RelativeToolTip": "RolloutEngine.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T23:57:53.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
